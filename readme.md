@@ -65,6 +65,7 @@ Via Android Enterprise, allow organizational admins to enable http request inter
 - Submitting Patches to Android: https://source.android.com/setup/contribute/submit-patches#start-a-repo-branch
 - Android Upstream Projects: https://source.android.com/setup/contribute/submit-patches#upstream-projects
 - Android Developer Codelab: https://source.android.com/setup/start
+- AIDL-CPP: https://android.googlesource.com/platform/system/tools/aidl/+/brillo-m10-dev/docs/aidl-cpp.md
 
 
 ## Glossary
