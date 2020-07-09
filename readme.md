@@ -59,6 +59,9 @@ Via Android Enterprise, allow organizational admins to enable http request inter
 - Android code search: https://cs.android.com
 - WebViewChromium (loadUrl): https://source.chromium.org/chromium/chromium/src/+/master:android_webview/glue/java/src/com/android/webview/chromium/WebViewChromium.java?originalUrl=https:%2F%2Fcs.chromium.org%2F
 - HttpUrlConnectionImpl: https://cs.android.com/android/platform/superproject/+/master:external/okhttp/okhttp-urlconnection/src/main/java/com/squareup/okhttp/internal/huc/HttpURLConnectionImpl.java?q=httpurlconnection&ss=android
+- WebView for System Integrators: https://chromium.googlesource.com/chromium/src/+/HEAD/android_webview/docs/aosp-system-integration.md
+- Building chromium for Android: https://chromium.googlesource.com/chromium/src/+/HEAD/docs/android_build_instructions.md
+- Replacing existing Webview with custom: https://www.chromium.org/developers/how-tos/build-instructions-android-webview
 - Submitting Patches to Android: https://source.android.com/setup/contribute/submit-patches#start-a-repo-branch
 - Android Upstream Projects: https://source.android.com/setup/contribute/submit-patches#upstream-projects
 - Android Developer Codelab: https://source.android.com/setup/start
